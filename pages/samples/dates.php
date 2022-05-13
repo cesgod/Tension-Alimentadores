@@ -28,7 +28,7 @@
                 <div class="text-center">
                 <img src="../../../images/0logo.png" width="100px">
               </div><br>
-                <h3 class="card-title text-left mb-3 text-center">DASHBOAR DE TENSION</h3>
+                <h3 class="card-title text-left mb-3 text-center">DASHBOARD DE TENSION</h3>
                 <form action="../../writedates.php" method="post">
                   <div class="form-group">
                     <label>Fecha Desde *</label>
